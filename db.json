@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sundar Pichai Interview",
+      "author": "Sundar Pichai"
+    },
+    {
+      "id": 2,
+      "title": "Marqures Review Tesla",
+      "author": "Tesla's lattest car"
+    },
+    {
+      "id": 3,
+      "title": "AI in 2024",
+      "author": "AI in 2024"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ]
+}
