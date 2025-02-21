@@ -34,7 +34,7 @@ function PostsTraditional() {
       {posts.map((post) => (
         <div className="post-item" key={post.id}>
           <h3 className="post-title">{post.title}</h3>
-          <p className="post-body">{post.author}</p>
+          <p className="post-body">{post.body}</p>
         </div>
       ))}
     </div>
